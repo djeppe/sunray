@@ -1,0 +1,11 @@
+<!-- Important for serachengines to be able to index site -->
+<?xml version="1.0" encoding="URF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<!-- Don't forget to change this part-->
+		<loc>http://www.example.com/</loc>
+		<lastmod>2013-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>
