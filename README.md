@@ -12,3 +12,15 @@ Your php pagecontroller files will be saved in the webroot folder. Subfolders is
 All the source files can be found in the src folder. Theme related settings can be found in the theme folder.
 
 The sunray boilerplate was built as a part of a php and mysql course at Blekinge Tekniska Högskola to be used in various tasks along the course. The original Anax boilerplate can be found here: https://github.com/mosbth/Anax-base
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+License
+=======
+
+This software is free software and carries a MIT license.
+
+. ..:
+
+Copyright (c) 2014 Jesper Norrman
